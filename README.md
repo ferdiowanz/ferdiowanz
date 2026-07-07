@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/21dadcd0-28e8-4a46-ae78-e992c2ee04f6" width="400" alt="Monyet Ngetik">
+  <img src="https://github.com/user-attachments/assets/3d8da03a-d096-47b5-a811-e162c90c3b6b" width="400">
 </p>
 
 - ⚡ **Fun fact:** I'm an Electrical Engineering student.
